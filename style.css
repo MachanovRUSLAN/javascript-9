@@ -1,0 +1,23 @@
+
+.menu {
+    width: 30%;
+    max-width: 1140px;
+    text-align: left;
+}
+table  {
+    width: 100%;
+}
+table th {
+    width: 100px;
+    height: 20px;
+    background-color: rgb(20, 126, 6);
+}
+table td {
+    width: 100px;
+    background-color: rgb(180, 167, 167);
+}
+table td:last-child {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(193, 3, 3);
+}
